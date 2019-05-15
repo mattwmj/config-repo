@@ -2,3 +2,8 @@ ecs:
   auth:
     jwt:
       secret: thisIsDefaultSecret
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
