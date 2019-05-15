@@ -1,4 +1,4 @@
 ecs:
   auth:
     jwt:
-      secret: thisIsASecret
+      secret: thisIsDefaultSecret

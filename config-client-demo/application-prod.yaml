@@ -1,0 +1,4 @@
+ecs:
+  auth:
+    jwt:
+      secret: thisIsProdSecret
