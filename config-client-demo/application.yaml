@@ -1,7 +1,7 @@
 ecs:
   auth:
     jwt:
-      secret: thisIsDefaultSecret
+      secret: thisIsDefaultSecret1
 management:
   endpoints:
     web:
